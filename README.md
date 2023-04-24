@@ -5,15 +5,15 @@
 Initially:
 
 ```
-$ npm i
+dotnet tool restore
 ```
 
 Then start the dev server:
 
 ```
-$ npm start
+dotnet perla serve
 ```
 
-open http://localhost:3000
+open http://localhost:7331
 
 ...enjoy!
