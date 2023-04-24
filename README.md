@@ -1,5 +1,7 @@
 # Vide + Fable
 
+Check the Vide docs at https://vide-dev.io/ and the project in https://github.com/ronaldschlenker/vide
+
 ## Run
 
 Initially:
